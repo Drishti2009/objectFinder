@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+.heading{
+    font-size: 25px;
+    margin: 0;
+    width: 100%;
+}
+
+#tutorial{
+    font-size: 15px;
+    color: black;
+}
+
+#object_name{
+    width: 40%;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid hotpink;
+    box-shadow: 2px 2px 2px blue;
+}
+
+canvas{
+    border: 2px solid blue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hotpink;
+}
